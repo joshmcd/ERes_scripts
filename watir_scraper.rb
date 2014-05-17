@@ -18,7 +18,7 @@ else
   end
 end
 
-chap_pg_regularizer = 
+#chap_pg_regularizer = 
 	
 
 #see below when we call fetch to check a link. from https://stackoverflow.com/questions/5629170/using-watir-to-check-for-bad-links
