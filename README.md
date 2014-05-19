@@ -1,2 +1,1 @@
-Simple script to manage Docutek ERes using water-webdriver
-
+Simple ruby script to manage Docutek ERes using water-webdriver 
