@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'io/console'
 require 'watir'
 require 'watir-webdriver' #comment this out to use ie
